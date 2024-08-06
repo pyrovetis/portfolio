@@ -1,0 +1,31 @@
+:root {
+    --pico-font-size: 100%;
+}
+
+.contact li {
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1rem auto;
+    gap: 0.5rem;
+    align-items: center;
+
+}
+
+.contact li a {
+    width: fit-content;
+}
+
+.contact li svg {
+    margin-top: 2px;
+    width: 14px;
+    height: 14px;
+    color: var(--pico-secondary);
+}
+
+:where(ol,ul) li {
+    margin-bottom: 0;
+}
+
+ul {
+    padding: 0;
+}
