@@ -50,7 +50,7 @@
                 <p>Personal portfolio.</p>
                 <p>Technologies used: <code>HTML, CSS</code></p>
                 <footer>
-                    <a href="/" target="_blank">Link to mhsn</a> |
+                    <a href="/" target="_blank">Link to mhsn</a>
                 </footer>
             </article>
 
@@ -69,7 +69,7 @@
                 <p>Finance app.</p>
                 <p>Technologies used: <code>Next.js</code></p>
                 <footer>
-                    <a href="https://nezarat.com" target="_blank">Link to nezarat</a> |
+                    <a href="https://nezarat.com" target="_blank">Link to nezarat</a>
                 </footer>
             </article>
         </div>
