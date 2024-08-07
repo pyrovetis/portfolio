@@ -50,7 +50,8 @@
                 <p>Personal portfolio.</p>
                 <p>Technologies used: <code>HTML, CSS</code></p>
                 <footer>
-                    <a href="/" target="_blank">Link to mhsn</a>
+                    <a href="/" target="_blank">Link to mhsn</a> |
+                    <a href="https://github.com/pyrovetis/mhsn" target="_blank">GitHub</a>
                 </footer>
             </article>
 
