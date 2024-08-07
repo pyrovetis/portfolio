@@ -46,30 +46,31 @@
         <h2>Online Projects</h2>
         <div class="grid">
             <article>
-                <header>
-                    <div class="pulsing online">
-                        <span class="dot"></span>
-                        <span class="dot"></span>
-                    </div>
-                    MHSN
-                </header>
+                <header>MHSN</header>
                 <p>Personal portfolio.</p>
                 <p>Technologies used: <code>HTML, CSS</code></p>
-                <footer><a href="/" target="_blank">Link to mhsn</a></footer>
+                <footer>
+                    <a href="/" target="_blank">Link to mhsn</a> |
+                </footer>
             </article>
 
             <article>
                 <header>EXILE</header>
                 <p>URL shortener.</p>
                 <p>Technologies used: <code>Flask, HTMX</code></p>
-                <footer><a href="https://exile.ir" target="_blank">Link to exile</a></footer>
+                <footer>
+                    <a href="https://exile.ir" target="_blank">Link to exile</a> |
+                    <a href="https://github.com/pyrovetis/exile" target="_blank">GitHub</a>
+                </footer>
             </article>
 
             <article>
                 <header>NEZARAT</header>
                 <p>Finance app.</p>
                 <p>Technologies used: <code>Next.js</code></p>
-                <footer><a href="https://nezarat.com" target="_blank">Link to nezarat</a></footer>
+                <footer>
+                    <a href="https://nezarat.com" target="_blank">Link to nezarat</a> |
+                </footer>
             </article>
         </div>
     </section>
