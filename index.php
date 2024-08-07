@@ -142,10 +142,8 @@
             echo $diff->y;
             ?>, living in Tehran, Iran.
         </p>
-        <p>
-            I primarily speak Farsi but am fluent in English. I have a passion for technology and enjoy creating things.
-            Additionally, I'm a fan of anime, manga, and video games.
-        </p>
+        <p>I primarily speak Farsi, but I am fluent in English. I have a passion for technology and enjoy creating
+            things. Additionally, I'm a fan of anime, manga, and video games.</p>
         <p>
             I graduated from Sama Islamshahr Islamic Azad University in July 2020. My coding journey began in 2012 with
             simple PHP scripts on a free hosting and domain platform. Since then, I've expanded my skills to include
