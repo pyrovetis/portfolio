@@ -38,7 +38,14 @@
         <hgroup>
             <h1>My Projects</h1>
             <p><small><em>Total: 3 (3 online, 0 offline)</em></small><br>
-                <small><em>Last updated: August 2024</em></small></p>
+                <small><em>Last updated:
+                        <?php
+                        $filename = __FILE__;
+                        $lastModifiedTimestamp = filemtime($filename);
+                        $lastModified = date("F Y", $lastModifiedTimestamp);
+                        echo $lastModified;
+                        ?>
+                    </em></small></p>
         </hgroup>
         <a href="/" class="contrast">Go Back</a>
     </section>
