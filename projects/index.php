@@ -56,7 +56,7 @@
         <hgroup>
           <h1>My Projects</h1>
           <p>
-            <small><em>Total: 3 (3 online, 0 offline)</em></small
+            <small><em>Total: 5 (4 online, 1 offline)</em></small
             ><br />
             <small
               ><em
