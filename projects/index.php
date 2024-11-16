@@ -105,7 +105,7 @@
             <p>Finance news app.</p>
             <p>Technologies used: <code>Next.js</code></p>
             <footer>
-              <a href="https://nezarat.com" target="_blank">Link to nezarat</a>
+              <a href="https://feedbeen.com" target="_blank">Link to feedbeen</a>
             </footer>
           </article>
         </div>
