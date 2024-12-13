@@ -12,7 +12,7 @@
     <title>Mohsen Azarmanesh</title>
     <meta
       name="description"
-      content="Passionate backend developer with a strong interest in backend development. I love building robust systems and creating engaging user experiences. Always eager to learn new technologies."
+      content="Passionate web developer with a strong focus on backend development. I love building robust systems and creating engaging user experiences. Always eager to learn new technologies."
     />
     <meta name="author" content="Mohsen Azarmanesh" />
     <meta name="copyright" content="Mohsen Azarmanesh" />
@@ -23,7 +23,7 @@
     <meta property="og:url" content="https://mhsn.ir" />
     <meta
       property="og:description"
-      content="Passionate backend developer with a strong interest in backend development. I love building robust systems and creating engaging user experiences. Always eager to learn new technologies."
+      content="Passionate web developer with a strong focus on backend development. I love building robust systems and creating engaging user experiences. Always eager to learn new technologies."
     />
     <meta property="profile:first_name" content="Mohsen" />
     <meta property="profile:last_name" content="Azarmanesh" />
