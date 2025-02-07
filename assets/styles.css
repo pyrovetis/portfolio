@@ -29,3 +29,17 @@
 ul {
     padding: 0;
 }
+
+code {
+    margin-left: 0.25rem;
+    margin-bottom: 0.25rem;
+}
+
+article {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+article div p:last-child {
+    margin-bottom: 0;
+}
