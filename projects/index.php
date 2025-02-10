@@ -49,6 +49,8 @@
     <link rel="manifest" href="/assets/favicon/site.webmanifest"/>
 
     <link rel="stylesheet" href="/assets/styles.css"/>
+
+    <link rel="canonical" href="https://azarmanesh.com/projects"/>
 </head>
 <body>
 <main class="container">

@@ -17,7 +17,6 @@
     <meta name="author" content="Mohsen Azarmanesh"/>
     <meta name="copyright" content="Mohsen Azarmanesh"/>
     <meta name="robots" content="index, follow"/>
-
     <meta property="og:type" content="profile"/>
     <meta property="og:title" content="Mohsen Azarmanesh"/>
     <meta property="og:url" content="https://azarmanesh.dev"/>
@@ -49,6 +48,8 @@
     <link rel="manifest" href="/assets/favicon/site.webmanifest"/>
 
     <link rel="stylesheet" href="/assets/styles.css"/>
+
+    <link rel="canonical" href="https://azarmanesh.com"/>
 </head>
 <body>
 <main class="container">
