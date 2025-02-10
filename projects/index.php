@@ -85,7 +85,7 @@
                     <p>Technologies used: <code>HTML</code><code>CSS</code></p>
                 </div>
                 <footer>
-                    <a href="/" target="_blank">Link to azarmanesh</a> |
+                    <a href="/" target="_blank">Website</a> |
                     <a href="https://github.com/pyrovetis/portfolio" target="_blank"
                     >GitHub</a
                     >
@@ -99,7 +99,7 @@
                     <p>Technologies used: <code>Flask</code><code>HTMX</code><code>Alpine.js</code></p>
                 </div>
                 <footer>
-                    <a href="https://exile.ir" target="_blank">Link to exile</a> |
+                    <a href="https://exile.ir" target="_blank">Website</a> |
                     <a href="https://github.com/pyrovetis/exile" target="_blank"
                     >GitHub</a
                     >
@@ -114,7 +114,7 @@
                             Query</code><code>date-fns</code><code>JOSE</code><code>Zod</code><code>Zustand</code></p>
                 </div>
                 <footer>
-                    <a href="https://feedbeen.com" target="_blank">Link to feedbeen</a>
+                    <a href="https://feedbeen.com" target="_blank">Website</a>
                 </footer>
             </article>
         </div>
@@ -126,7 +126,7 @@
                     <p>Technologies used: <code>Django</code><code>Pillow</code></p>
                 </div>
                 <footer>
-                    <a href="https://fuminsho.ir" target="_blank">Link to fuminsho</a>
+                    <a href="https://fuminsho.ir" target="_blank">Website</a>
                     |
                     <a href="https://github.com/pyrovetis/fuminsho" target="_blank"
                     >GitHub</a
@@ -141,7 +141,7 @@
                     <p>Technologies used: <code>WordPress</code></p>
                 </div>
                 <footer>
-                    <a href="https://braindamage.ir" target="_blank">Link to braindamage</a>
+                    <a href="https://braindamage.ir" target="_blank">Website</a>
                 </footer>
             </article>
 
@@ -154,7 +154,7 @@
                     </p>
                 </div>
                 <footer>
-                    <a href="https://foodbaz.com" target="_blank">Link to foodbaz</a>
+                    <a href="https://foodbaz.com" target="_blank">Website</a>
                 </footer>
             </article>
 
